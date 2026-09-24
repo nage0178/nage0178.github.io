@@ -7,5 +7,5 @@ I have worked on several large software projects such as [bpp](https://github.co
 I have written independent software including [MutAnce](https://github.com/nage0178/MutAnce). 
 I mostly program in C. 
 More recently I have contributed to the phylogenetic deep learning software [phyddle](https://phyddle.org/).
-See more of my projects on on [GitHub](https://github.com/nage0178).
+See more of my projects on [GitHub](https://github.com/nage0178).
 
